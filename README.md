@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiTiN-DaGGeR
+- 👋 Hi, I’m @Nitin Das
 - 👀 I’m interested in React JS Internship 
 - 🌱 I’m currently learning Android Development 
 - 💞️ I’m looking to collaborate on React JS Projects 
